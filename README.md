@@ -12,6 +12,7 @@
 - No projeto, executar 'npm start';
 - No Browser, será aberto automaticamente a pagina rodando no http://localhost:3000/, como servidor da aplicação.
 ### api:
-- #### Execução: na pasta api, rode no terminal o comando 'npm start'
+- #### Execução: 
+- Na pasta api, rode no terminal o comando 'npm start'.
 - #### enpoint: http://localhost:8080/dados;
 - Utilizando o botão 'importa'.
